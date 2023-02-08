@@ -1,5 +1,9 @@
 # DDoSecrets News
 
+New prototype: https://scidsg.github.io/ddosecrets-news/
+
+Primary org site: https://ddosecrets.com
+
 ## Context
 
 DDoSecrets is a new transparency non-profit publishing hacks and leaks that serve the public's interest, which is at odds with corporate and state interests. 
@@ -14,4 +18,4 @@ DDoSecrets is a new transparency non-profit publishing hacks and leaks that serv
 
 A new lightweight DDoSecrets mirror that enables a more flexible presentation of the critical content they host, removing any single points of failure, and increasing adoption by providing more user-friendly ways of consuming large amounts of information.
 
-
+![ddos](https://user-images.githubusercontent.com/28545431/217619087-e1cbc81d-acae-45b0-826c-c2b68f531b48.png)
