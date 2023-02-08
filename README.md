@@ -1,8 +1,12 @@
 # DDoSecrets News
 
+## Context
+
+DDoSecrets is a new transparency non-profit publishing hacks and leaks that serve the public's interest, which is at odds with corporate and state interests. 
+
 ## Problem
 
-- DDoSecrets.com is a new and corageous group of individuals bringing transparency to those holding power and influence. As such, some sites have started to block links to their website. 
+- Some social media sites have started blocking links to DDoSecrets.com. 
 
 - DDoSecrets.com is built on MediaWiki, which has some limitations for how deeply it can be customized without beginning to maintain an entirely new skin.
 
