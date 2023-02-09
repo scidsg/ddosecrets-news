@@ -93,14 +93,14 @@
 
 .frontpageBody .col2 {
   width: 25%;
-  padding-left: var(--spacing-base);
-  padding-right: var(--spacing-base);
+  padding-left: var(--spacing-medium);
+  padding-right: var(--spacing-medium);
   padding-top: 0;
 }
 
 .frontpageBody .col3 {
   width: 25%;
-  padding-left: var(--spacing-base);
+  padding-left: var(--spacing-medium);
   padding-top: 0;
 }
 
