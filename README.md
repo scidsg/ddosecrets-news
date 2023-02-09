@@ -16,6 +16,6 @@ DDoSecrets is a new transparency non-profit publishing hacks and leaks that serv
 
 ## Solution
 
-A new lightweight DDoSecrets mirror to keep their content more resilient to censorship, enables a more flexible presentation of the critical information they host, and increasing adoption by providing more user-friendly ways of consuming large amounts of information.
+A new lightweight DDoSecrets mirror to keep their content more resilient to censorship, enabling a more flexible presentation of the critical information they host, and increasing adoption by providing more user-friendly ways of consuming large amounts of information.
 
 ![ddos](https://user-images.githubusercontent.com/28545431/217688304-0de72cb3-e1fd-4369-9473-5c7ebc38d920.png)
