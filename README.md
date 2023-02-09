@@ -18,4 +18,4 @@ DDoSecrets is a new transparency non-profit publishing hacks and leaks that serv
 
 A new lightweight DDoSecrets mirror to keep their content more resilient to censorship, enables a more flexible presentation of the critical information they host, and increasing adoption by providing more user-friendly ways of consuming large amounts of information.
 
-![ddos](https://user-images.githubusercontent.com/28545431/217619087-e1cbc81d-acae-45b0-826c-c2b68f531b48.png)
+![ddos](https://user-images.githubusercontent.com/28545431/217685125-1c65c20b-da8e-4bf8-bdde-a0287bbeb57d.png)
