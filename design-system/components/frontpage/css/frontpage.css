@@ -28,6 +28,18 @@
   max-width: calc(1280px + var(--spacing-base) * 2);
 }
 
+.frontpageBody .status {
+  display: flex;
+  width: 100% !important;
+  justify-content: space-between;
+  padding: var(--spacing-base) 0;
+}
+
+.frontpageBody .status p {
+  width: auto;
+  margin: 0 !important;
+}
+
 .banner + header ~ div .pageTabs {
   position: fixed;
   top: 118px;
@@ -51,7 +63,7 @@
   left: 0;
 }
 
-.frontpageBody {
+.frontpageContent {
   display: flex;
   flex-direction: row;
   height: 100%;
@@ -72,6 +84,7 @@
 .frontpageBody .col1 {
   width: 50%;
   padding-right: var(--spacing-base);
+  padding-top: 0;
 }
 
 .frontpageBody .col1 h2 {
@@ -82,11 +95,13 @@
   width: 25%;
   padding-left: var(--spacing-base);
   padding-right: var(--spacing-base);
+  padding-top: 0;
 }
 
 .frontpageBody .col3 {
   width: 25%;
   padding-left: var(--spacing-base);
+  padding-top: 0;
 }
 
 .frontpageBody .col2 h3, .frontpageBody .col3 h3 {
@@ -124,10 +139,10 @@
 }
 
 .frontpageBody .wrapper {
-  flex-direction: row;
+  flex-direction: column;
 }
 
-.frontpageBody .wrapper > section {
+.frontpageContent > section {
   flex-direction: column;
   justify-content: flex-start;
   padding-top: var(--spacing-large);
@@ -146,7 +161,7 @@
 }
 
 @media only screen and (max-width: 768px) {
-  .frontpageBody .wrapper {
+  .frontpageBody .wrapper, .frontpageContent {
     flex-direction: column;
   }
 
@@ -154,6 +169,10 @@
     max-width: 768px;
     width: 100% !important;
     padding: var(--spacing-medium) 0 !important;
+  }
+
+  .col1 {
+    padding-top: 0 !important;
   }
 
   .snippet img {
